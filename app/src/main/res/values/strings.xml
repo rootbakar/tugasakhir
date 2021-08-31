@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TUGAS AKHIR ROOTBAKAR</string>
+    <string name="tombol">VIEW</string>
+    <string name="hasil">RESULT</string>
+    <string name="system">KEYS</string>
+    <string name="judul_hasil">HASIL</string>
+    <string name="user">PASSWORD</string>
+</resources>
